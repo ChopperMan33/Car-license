@@ -1,0 +1,171 @@
+/* pages/apply/apply.wxss */
+page{  
+  height: 100%;
+}
+.container{ 
+  width: 100%;
+  height: Auto;
+  background-color:#e6e6e6;
+  position: relative;
+}
+
+ .background{
+  top: 0rpx;
+  margin-left: 0rpx;
+  width: 750rpx;
+  height:1170rpx;
+  float: left;
+  position: absolute;
+}
+
+ .title{
+  top: 20rpx;
+  left:250rpx;
+  margin-left: 0rpx;
+  float: left;
+  position: absolute;
+}
+
+ .allphoto{
+  top: 30rpx;
+  left:30rpx;
+  margin-left: 0rpx;
+  float: left;
+  position: absolute;
+}
+
+  .five_title{
+  left: 0px;
+  top: 80rpx;
+  width: 750rpx;
+  height: 40rpx;
+  color: rgba(139, 0, 18, 1);
+  font-size: 0.75em;
+  text-align: left;
+  font-family: Arial;
+  border: 1px solid rgba(187, 187, 187, 1);
+  position: absolute;
+}
+
+ .five{
+  top:130rpx;
+  left:160rpx;
+  margin-left: 0rpx;
+  width:400rpx;
+  height: 300rpx;
+  float: left;
+  position: absolute;
+}
+
+  .one_two_title{
+  left: 0px;
+  top: 440rpx;
+  width: 750rpx;
+  height: 40rpx;
+  color: rgba(139, 0, 18, 1);
+  font-size: 0.75em;
+  text-align: left;
+  font-family: Arial;
+  border: 1px solid rgba(187, 187, 187, 1);
+  position: absolute;
+  }
+
+ .one{
+  top:490rpx;
+  left:30rpx;
+  margin-left: 0rpx;
+  width:320rpx;
+  height:240rpx;
+  float: left;
+  position: absolute;
+}
+
+ .two{
+  top:490rpx;
+  left:400rpx;
+  margin-left: 0rpx;
+  width:320rpx;
+  height:240rpx;
+  float: left;
+  position: absolute;
+}
+
+  .three_four_title{
+  left: 0px;
+  top: 740rpx;
+  width: 750rpx;
+  height: 40rpx;
+  color: rgba(139, 0, 18, 1);
+  font-size: 0.75em;
+  text-align: left;
+  font-family: Arial;
+  border: 1px solid rgba(187, 187, 187, 1);
+  position: absolute;
+  }
+
+ .three{
+  top:800rpx;
+  left:30rpx;
+  margin-left: 0rpx;
+  width:320rpx;
+  height:240rpx;
+  float: left;
+  position: absolute;
+}
+
+ .four{
+  top:800rpx;
+  left:400rpx;
+  margin-left: 0rpx;
+  width:320rpx;
+  height:240rpx;
+  float: left;
+  position: absolute;
+}
+
+  .six_title{
+  left: 0px;
+  top: 1050rpx;
+  width: 750rpx;
+  height: 40rpx;
+  color: rgba(139, 0, 18, 1);
+  font-size: 0.75em;
+  text-align: left;
+  font-family: Arial;
+  border: 1px solid rgba(187, 187, 187, 1);
+  position: absolute;
+  }
+
+ .six{
+  top:1100rpx;
+  left:160rpx;
+  margin-left: 0rpx;
+  width:400rpx;
+  height:300rpx;
+  float: left;
+  position: absolute;
+}
+
+ .totxt{
+left: 270rpx;
+top: 1420rpx;
+width: 200rpx;
+height: 80rpx;
+line-height: 70rpx;
+border-radius: 4px;
+background-color: rgba(139, 0, 18, 1);
+color: rgba(255, 255, 255, 1);
+font-size: 1.2em;
+text-align: center;
+font-family: Microsoft Yahei;
+border: 1px solid rgba(187, 187, 187, 1);
+position: absolute;
+}
+
+ .fin{
+  top:900rpx;
+  left:30rpx;
+  margin-left: 0rpx;
+  float: left;
+  position: absolute;
+}
